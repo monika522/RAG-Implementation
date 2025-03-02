@@ -18,4 +18,4 @@ This notebook implements a **Retrieval-Augmented Generation (RAG) system** using
 - **FAISS** (for vector storage & retrieval).  
 - **LangChain** (for end-to-end orchestration).  
 
-🚀 **Issue:** Ensure you have a valid **Hugging Face API key** to avoid quota errors.
+ **NOTE:** Ensure you have a valid **Hugging Face API key** to avoid quota errors.
